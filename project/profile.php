@@ -23,7 +23,7 @@
                           <h3 class="m-b-0 font-light">10434</h3><small>Articles</small>
                       </div>
                       <div class="col-lg-4 col-md-4 m-t-20">
-                          <h3 class="m-b-0 font-light">434K</h3><small>Followers</small>
+                          <h3 class="m-b-0 font-light">4M</h3><small>Followers</small>
                       </div>
                       <div class="col-lg-4 col-md-4 m-t-20">
                           <h3 class="m-b-0 font-light">5454</h3><small>Following</small>
