@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
-    <title>RESERVATION</title>
+    <title>Profile</title>
     <link
       rel="shortcut icon"
       href="img/4.jpg"
@@ -13,7 +13,7 @@
     />
   </head>
   <body style="background-color: white;">
-          <div class="card"> <img class="card-img-top" src="img/4.jpg" alt="Card image cap">
+          <div class="card mg-20"> <img class="card-img-top" src="img/4.jpg" alt="Card image cap">
               <div class="card-body little-profile text-center">
                   <div class="pro-img"><img src="img/3.jpg" alt="user"></div>
                   <h3 class="m-b-0">Brad Macullam</h3>
@@ -106,6 +106,5 @@
 <script src="bootstrap-4.0.0-dist/js/popper.min.js"></script>
     <script src="bootstrap-4.0.0-dist/js/jquery-3.7.1.min.js"></script>
     <script src="bootstrap-4.0.0-dist/js/bootstrap.js"></script>
-    <script src="validation form1.js"></script>
  </body>
 </html>
